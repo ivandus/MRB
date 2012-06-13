@@ -1,0 +1,202 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="keywords" content="Miami Ballet School,Ballet School,Ballet Classes,Ballet Schools in Miami,Dance School,ballet class,classic ballet,dance,modern dance,contemporary ballet,pointe,Jazz,ballet workout,dance studio,adult classes,beginners classes,private classes,Lyrics,children ballet,Miami,Coral Gables" /><meta name="verify-v1" content="JbtACQBdecP3qr1E46m4JFJYxLfAIKl1mlm8MVpR8+Y=" /><meta name="msvalidate.01" content="52F528EB1A2B42E09F4960E74F1C8E05" />
+    <!--meta http-equiv="Page-Enter" content="progid:DXImageTransform.Microsoft.Fade(Duration=1)">
+    <meta http-equiv="Page-Exit" content="progid:DXImageTransform.Microsoft.Fade(Duration=1)"-->
+    <title>
+	Miami Royal Ballet News
+</title><link href="Styles/ssBallet.css" rel="stylesheet" type="text/css" /><link href="Styles/lightbox.css" type="text/css" rel="stylesheet" /></head>
+<body>
+    <form name="aspnetForm" method="post" action="NewsDetail.aspx?newsID=10" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4ODMxMTM0MzUPZBYCZg9kFgICAw9kFgICAw9kFgYCAQ8WAh4JaW5uZXJodG1sBTBSZWNpdGFsIEltcG9ydGFudCBJbmZvcm1hdGlvbi4gTWFrZXVwLCBIYWlyLCBldGNkAgMPFgIfAAXUGjxwPg0KICAgICAgICA8c3Ryb25nPkluZm9ybWF0aW9uIG9uIGhhaXIsIG1ha2V1cCwgZXRjLjogMjAxMjwvc3Ryb25nPjwvcD4NCiAgICA8cD4NCiAgICAgICAgQWxsIGdpcmxzIGhhdmUgdG8gYXJyaXZlIHdpdGggdGhlaXIgaGFpciBhbmQgbWFrZXVwIG9uLCB3aXRoIHRoZSB0aWdodHMgb24gYW5kIGNsZWFuDQogICAgICAgIHNob2VzIGluIGEgYmFnLCBwbHVzIGEgbGlwc3RpY2sgYW5kIGJsdXNoIHRvIHJldG91Y2guPC9wPg0KICAgIDxwPg0KICAgICAgICA8c3Ryb25nPkhhaXI8L3N0cm9uZz46PC9wPg0KICAgIDxwPg0KICAgICAgICBBbGwgdGhlIGdpcmxzIGhhdmUgdG8gaGF2ZSB0aGVpciBoYWlyIGNvbWJlZCBiYWNrLCB3aXRoIG5vIGxpbmUsIGFuZCBnZWwuIDxzdHJvbmc+RmFsbGluZw0KICAgICAgICAgICAgaGFpcnMgYXJlIG5vdCBhbGxvd2VkPC9zdHJvbmc+LCBhbmQgYWxzbyBwdXQgb24gZW5vdWdoIHBpbnMgdG8gcHJldmVudCB0aGUgYnVuDQogICAgICAgIGZyb20gZmFsbGluZy4gQnJpbmcgbW9yZSBwaW5zIHRvIHNlY3VyZSBoZWFkcGllY2VzLjwvcD4NCiAgICA8cD4NCiAgICAgICAgVGhlIGJ1biBoYXMgdG8gYmUgaW4gdGhlIGJhY2sgaW4gdGhlIGNlbnRlciBvZiB0aGUgaGVhZCwgY29sbGVjdGVkIHdpdGggYW4gaW52aXNpYmxlDQogICAgICAgIGhhaXIgbmV0LiBUaGUgZ2lybHMgbXVzdCB3ZWFyIGVhcnJpbmdzIHRoYXQgc2hpbmUuIElmIHlvdXIgZWFycyBhcmUgbm90IHBpZXJjZWQsDQogICAgICAgIHlvdSBtdXN0IHB1dCBzaWx2ZXIgc2VxdWlucyB3aXRoIG1hc2NhcmEgZ2x1ZS48L3A+DQogICAgPHA+DQogICAgICAgIDxzdHJvbmc+Tk8gQkFOR1M8L3N0cm9uZz4uPC9wPg0KICAgIDxwPg0KICAgICAgICBObyBuZWNrbGFjZXMsIHJpbmdzLCBicmFjZWxldHMsIG9yIHBhaW50ZWQgbmFpbHMuIExlYXZlIGFsbCB2YWx1YWJsZXMgYXQgaG9tZS48L3A+DQogICAgPHA+DQogICAgICAgIDxzdHJvbmc+TWFrZXVwOiA8L3N0cm9uZz4NCiAgICA8L3A+DQogICAgPHVsPg0KICAgICAgICA8bGk+QmFzZSAobWF0Y2ggc2tpbiB0b25lKTwvbGk+DQogICAgICAgIDxsaT5Qb3dkZXIgKHRvIHRha2UgYXdheSBmYWNpYWwgc2hpbmUpPC9saT4NCiAgICAgICAgPGxpPkV5ZSBzaGFkb3cgKGV4YWN0IGNvbG9ycyBsaXN0ZWQgYmVsb3cpPC9saT4NCiAgICAgICAgPGxpPkJyb3duIEV5ZWxpbmVyIChwZW5jaWwsIG5vdCBsaXF1aWQgKTwvbGk+DQogICAgICAgIDxsaT5NYXNjYXJhIChCTEFDSyk8L2xpPg0KICAgICAgICA8bGk+TGlwc3RpY2sgKGxpZ2h0IHJlZCBvciBkYXJrIHBpbmspIChmb3IgamF6eiBnaXJscywgbGlwcyBjb3VsZCBiZSBtb3JlIHJlZCk8L2xpPg0KICAgICAgICA8bGk+Qmx1c2ggKHBlYWNoIG9yIHBpbmspPC9saT4NCiAgICAgICAgPGxpPkV5ZWJyb3cgcGVuY2lsICh0byBkYXJrZW4gYnJvd3MsIGVzcGVjaWFsbHkgYmxvbmRzKTwvbGk+DQogICAgICAgIDxsaT5GYWtlIGV5ZWxhc2hlcyBjb3VsZCBiZSB1c2VkIChzbWFsbCBvbmVzKTwvbGk+DQogICAgPC91bD4NCiAgICA8cD4NCiAgICAgICAgPHN0cm9uZz5FeWUgc2hhZG93IGNvbG9yczo8L3N0cm9uZz48L3A+DQogICAgPHVsPg0KICAgICAgICA8bGk+RGFuY2VycyAoQmVnaW5uZXIgQmFsbGV0KTogTGlnaHQgYmx1ZSBpbiB0aGUgbWlkZGxlIGFuZCB3aGl0ZSB1bmRlciB0aGUgYnJvd3M8L2xpPg0KICAgICAgICA8bGk+RmFpcnkgQXR0ZW5kYW50cyAoanVuaW9yKTogbGlsYWMgaW4gdGhlIG1pZGRsZSBhbmQgbGlnaHQgcGluayB1bmRlciB0aGUgYnJvd3MuPC9saT4NCiAgICAgICAgPGxpPkZyaWVuZHMvQ2hpbGRob29kIEZyaWVuZHMgKGludGVybWVkaWF0ZSBJKTogTGlnaHQgYnJvd24gaW4gdGhlIG1pZGRsZSBhbmQgd2hpdGUNCiAgICAgICAgICAgIHVuZGVyIHRoZSBicm93czwvbGk+DQogICAgICAgIDxsaT5Db3VydCBHaXJscy9RdWVlbiBBdHRlbmRhbnRzIChpbnRlcm1lZGlhdGUgSUkgYW5kIGFkdmFuY2VkKTogTGlnaHQgYmx1ZSBpbiB0aGUgbWlkZGxlDQogICAgICAgICAgICBhbmQgd2hpdGUgdW5kZXIgdGhlIGJyb3dzIGFuZCB1bmRlciB0aGUgZXllPC9saT4NCiAgICAgICAgPGxpPkR1Y2hlc3MgKGFkdWx0cyk6IEJsdWUgaW4gdGhlIG1pZGRsZSBhbmQgd2hpdGUgdW5kZXIgdGhlIGJyb3dzPC9saT4NCiAgICAgICAgPGxpPkphenogKGZvciB0aG9zZSB3aG8gYXJlbuKAmXQgaW4gYmFsbGV0KTogQnJvd24gaW4gdGhlIG1pZGRsZSBhbmQgd2hpdGUgdW5kZXIgdGhlIGJyb3dzPC9saT4NCiAgICA8L3VsPg0KICAgIDxwPg0KICAgICAgICA8c3Ryb25nPkV2ZXJ5b25lPC9zdHJvbmc+IHNob3VsZCBwcmFjdGljZSB0aGUgbWFrZXVwIGFuZCBoYWlyIGF0IGhvbWUuPC9wPg0KICAgIDxwPg0KICAgICAgICBJdCBpcyBtYW5kYXRvcnkgdGhhdCBhbGwgZ2lybHMgYW5kIGFkdWx0cyB3aG8gYXJlIGRhbmNpbmcgaW4gdGhlIHJlY2l0YWwgYmUgaW4gdGhlDQogICAgICAgIFRoZWF0cmUgYXQgNTo0NXBtLiBUaGUgcmVjaXRhbCB3aWxsIGJlZ2luIGF0IDdwbSBPIENMT0NLLjxzdHJvbmc+IFNpbmNlIGl0IGlzIGEgd29yayBkYXksDQogICAgICAgIHRyeSB0byBsZWF2ZSBlYXJsaWVyLiBUQUtFIE5PVElDRSBPRiBUUkFGRklDLjwvc3Ryb25nPg0KICAgIDwvcD4NCiAgICA8cD4NCiAgICAgICAgPHU+TW90aGVyczwvdT46IDxzdHJvbmc+UHJlcGFyZTwvc3Ryb25nPiB0aGUgY2xvdGhlcywgc2hvZXMsIHNsaXBwZXJzLCB0aWdodHMsIGhhaXIgb3JuYW1lbnRzIHRoYXQgdGhlIGdpcmxzDQogICAgICAgIGFyZSBnb2luZyB0byB1c2UgZGF5cyBiZWZvcmUuPC9wPg0KICAgIDxwPg0KICAgICAgICBEbyBub3QgZ2V0IG5lcnZvdXMsIGl0IHdpbGwgcnViIG9mZiBvbiB0aGUgY2hpbGQsIG1ha2luZyB0aGVtIG5lcnZvdXMgYWxzby48YnIgLz4NCiAgICAgICAgQW55IHF1ZXN0aW9ucyBjYWxsIDMwNSAtIDcyOC05NTg3LiA8YnIgLz4NCiAgICAgICAgRm9yIHRoZSBzYWZldHkgb2Ygb3VyIGdpcmxzLiBOTyBmbGFzaCBwaG90b2dyYXBoeSBkdXJpbmcgdGhlIHBlcmZvcm1hbmNlLg0KICAgIDwvcD4NCiAgICA8cD4NCiAgICAgICAgPHN0cm9uZz5ETyBOT1QgRk9SR0VUIFRIRSBUSUNLRVRTPC9zdHJvbmc+LjwvcD4NCiAgICA8cD4NCiAgICAgICAgVGhlIHRoZWF0ZXIgYWRkcmVzcyBpczoNCiAgICAgICAgPGJyIC8+DQogICAgICAgIDkwMCBTVyAxc3QgU3RyZWV0DQo8YnIgLz4NCiBNaWFtaSwgRkwsIDMzMTMwDQogICAgPC9wPg0KICAgIDxwPg0KICAgICAgICBUaGVyZSB3aWxsIGJlIGZsb3dlcnMsIHRpY2tldHMsIGZvb2QgYW5kIGRyaW5rcyBmb3Igc2FsZSBhdCB0aGUgdGhlYXRlciBsb2JieS4NCiAgICA8L3A+DQogICAgPHA+DQogICAgICAgIDxzdHJvbmc+R09PRCBMVUNLITwvc3Ryb25nPg0KICAgIDwvcD5kAgUPFgIfAAUeTG91cmRlcyAtIDUvMjQvMjAxMiA3OjUwOjAwIFBNZGT/WG/uuuqrZzMv01Bf5xvJZsk1ig==" />
+
+        <table align="left" width="1100px" cellpadding="1" cellspacing="0" border="0">
+            <tr>
+                <td colspan="3" bgcolor="#000000">
+                    <img class="imgNoMargin" alt="Miami Royal Ballet School" src="Images/header2012w.jpg" width="1100" height="150" />
+                </td>
+            </tr>
+            <tr>
+                <td align="center" valign="top" width="175px" rowspan="2">
+                    
+
+<script src="menu.js" type="text/javascript"></script>
+<link href="Styles/ssBallet.css" rel="stylesheet" type="text/css" />
+<table cellpadding="0" cellspacing="0" border="0">
+    <tr style="background-color:#A39B9B">
+        <td></td>
+        <td><img src="Images/tlArch.gif" /></td>
+    </tr>
+    <tr>
+        <td style="background-color:#A39B9B">
+            <div>
+            <span class="mnuHome"><a href="Default.aspx">Miami Royal Ballet School</a></span>
+            <span class="mnuClasses"><a href="Classes.aspx">Ballet Classes</a></span>
+            <span class="mnuBenefits"><a href="Benefits.aspx">Benefits of Ballet Classes</a></span>
+            <span class="mnuGallery"><a href="Gallery.aspx">Ballet Dance Gallery</a></span>
+            <span class="mnuAbout"><a href="About.aspx">About Miami Royal Ballet School</a></span>
+            <span class="mnuContact"><a href="Contact.aspx">Contact Miami Royal Ballet School</a></span>
+            <span class="mnuNews"><a href="News.aspx">School News</a></span>
+            <span class="mnuRegistration"><a href="Registration.aspx">Dance Class Registration</a></span>
+            <span class="mnuRegulation"><a href="Regulations.aspx">Ballet School Regulations</a></span>
+            <span class="mnuSummer"><a href="SummerClasses.aspx">Dance Summper Camp</a></span>
+            <span class="mnuTestimonials"><a href="Testimonials.aspx">Class Testimonials</a></span>
+            <span class="mnuCalendar"><a href="Calendar.aspx">Miami Royal Ballet School Calendar</a></span>         
+        </div>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td align="right" style="background-color:#A39B9B"><img src="Images/brArch.gif" /></td>
+        <td></td>
+    </tr>
+</table>
+<br />
+<br />
+<span>
+    <a href="javascript:nibClick()"><img alt="www.nibsoftware.com" src="Images/nibsite_s5.jpg" width="160" height="240"/></a>
+</span>
+                </td>
+                <td align="left" valign="top" width="785px">
+                    
+<h1>Miami Royal Ballet School</h1>
+<div id="ctl00_cphMain_Headline" class="Headline">Recital Important Information. Makeup, Hair, etc</div>
+<div id="ctl00_cphMain_news"><p>
+        <strong>Information on hair, makeup, etc.: 2012</strong></p>
+    <p>
+        All girls have to arrive with their hair and makeup on, with the tights on and clean
+        shoes in a bag, plus a lipstick and blush to retouch.</p>
+    <p>
+        <strong>Hair</strong>:</p>
+    <p>
+        All the girls have to have their hair combed back, with no line, and gel. <strong>Falling
+            hairs are not allowed</strong>, and also put on enough pins to prevent the bun
+        from falling. Bring more pins to secure headpieces.</p>
+    <p>
+        The bun has to be in the back in the center of the head, collected with an invisible
+        hair net. The girls must wear earrings that shine. If your ears are not pierced,
+        you must put silver sequins with mascara glue.</p>
+    <p>
+        <strong>NO BANGS</strong>.</p>
+    <p>
+        No necklaces, rings, bracelets, or painted nails. Leave all valuables at home.</p>
+    <p>
+        <strong>Makeup: </strong>
+    </p>
+    <ul>
+        <li>Base (match skin tone)</li>
+        <li>Powder (to take away facial shine)</li>
+        <li>Eye shadow (exact colors listed below)</li>
+        <li>Brown Eyeliner (pencil, not liquid )</li>
+        <li>Mascara (BLACK)</li>
+        <li>Lipstick (light red or dark pink) (for jazz girls, lips could be more red)</li>
+        <li>Blush (peach or pink)</li>
+        <li>Eyebrow pencil (to darken brows, especially blonds)</li>
+        <li>Fake eyelashes could be used (small ones)</li>
+    </ul>
+    <p>
+        <strong>Eye shadow colors:</strong></p>
+    <ul>
+        <li>Dancers (Beginner Ballet): Light blue in the middle and white under the brows</li>
+        <li>Fairy Attendants (junior): lilac in the middle and light pink under the brows.</li>
+        <li>Friends/Childhood Friends (intermediate I): Light brown in the middle and white
+            under the brows</li>
+        <li>Court Girls/Queen Attendants (intermediate II and advanced): Light blue in the middle
+            and white under the brows and under the eye</li>
+        <li>Duchess (adults): Blue in the middle and white under the brows</li>
+        <li>Jazz (for those who aren’t in ballet): Brown in the middle and white under the brows</li>
+    </ul>
+    <p>
+        <strong>Everyone</strong> should practice the makeup and hair at home.</p>
+    <p>
+        It is mandatory that all girls and adults who are dancing in the recital be in the
+        Theatre at 5:45pm. The recital will begin at 7pm O CLOCK.<strong> Since it is a work day,
+        try to leave earlier. TAKE NOTICE OF TRAFFIC.</strong>
+    </p>
+    <p>
+        <u>Mothers</u>: <strong>Prepare</strong> the clothes, shoes, slippers, tights, hair ornaments that the girls
+        are going to use days before.</p>
+    <p>
+        Do not get nervous, it will rub off on the child, making them nervous also.<br />
+        Any questions call 305 - 728-9587. <br />
+        For the safety of our girls. NO flash photography during the performance.
+    </p>
+    <p>
+        <strong>DO NOT FORGET THE TICKETS</strong>.</p>
+    <p>
+        The theater address is:
+        <br />
+        900 SW 1st Street
+<br />
+ Miami, FL, 33130
+    </p>
+    <p>
+        There will be flowers, tickets, food and drinks for sale at the theater lobby.
+    </p>
+    <p>
+        <strong>GOOD LUCK!</strong>
+    </p></div>
+<div id="ctl00_cphMain_reporter">Lourdes - 5/24/2012 7:50:00 PM</div>
+<br />
+<a href="News.aspx"><img src="Images/goback.jpg" /></a>
+
+                </td>
+                <td valign="top">
+                    <table border="0" cellpadding="0" cellspacing="0" width="160px">
+                        <tr>
+                            <td align="right">
+                                <script type="text/javascript"><!--
+                                    google_ad_client = "pub-9554576223644973";
+                                    /* Ballet Right ImgTxt */
+                                    google_ad_slot = "6446462290";
+                                    google_ad_width = 160;
+                                    google_ad_height = 600;
+                                    //-->
+                                </script>
+                                <script type="text/javascript"
+                                    src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                                </script>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align="left" valign="top" colspan="2">
+                    <br />
+                    <script type="text/javascript"><!--
+                        google_ad_client = "pub-9554576223644973";
+                        /* Horiz 728x90 Img Add */
+                        google_ad_slot = "9712345078";
+                        google_ad_width = 728;
+                        google_ad_height = 90;
+                        //-->
+                    </script>
+                    <script type="text/javascript"
+                        src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                    </script>
+                </td>
+            </tr>
+            <tr>
+                <td align="center" valign="top" colspan="3">
+                    <br />
+                    <hr />
+                    <a href="Default.aspx"><span class="smallText"> Home </span></a>|
+                    <a href="Classes.aspx"><span class="smallText"> Classes </span></a>|
+                    <a href="Benefits.aspx"><span class="smallText"> Benefits </span></a>|
+                    <a href="Gallery.aspx"><span class="smallText"> Gallery </span></a>|
+                    <a href="About.aspx"><span class="smallText"> About Us </span></a>|
+                    <a href="Contact.aspx"><span class="smallText"> Contact Us </span></a>|
+                    <a href="News.aspx"><span class="smallText"> News </span></a>|
+                    <a href="Testimonials.aspx"><span class="smallText"> Testimonials </span></a>|
+                    <a href="Registration.aspx"><span class="smallText"> Registration </span></a>|
+                    <a href="Regulations.aspx"><span class="smallText"> Rules and Regulations </span></a><br />
+                    <span>©Copyright 2007 Miami Royal Ballet, Inc. All Rights Reserved.</span><br />
+                    <span>Web Site Design by www.nibsoftware.com</span>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

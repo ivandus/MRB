@@ -1,0 +1,387 @@
+﻿body
+{
+	margin: 0px;
+	background-color: #FFFFFF;
+	font-size: 10pt;
+	color: #000033;
+	font-family: Verdana;
+	text-decoration: none;
+}
+H1
+{
+	font-style: italic;
+	font-size: 18pt;
+	color: #CC0000;
+	font-family: Elephant, Arial, Tahoma;
+}
+H2
+{
+	font-weight: bold;
+	font-size: 12pt;
+	color: #dc143c;
+	font-family: Arial, Tahoma;
+}
+H3
+{
+	font-weight: normal;
+	font-size: 11pt;
+	color: #808080;
+	font-family: Tahoma, Arial;
+}
+.imgNoMargin
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px;
+}
+.smallText
+{
+	font-size: 8pt;
+	color: #696969;
+	font-family: Verdana;
+	text-decoration: none;
+}
+.Text
+{
+	font-size: 9pt;
+	color: #000033;
+	font-family: Verdana;
+	text-decoration: none;
+}
+.Error
+{
+	font-size: 9pt;
+	color: #ff0000;
+	font-family: Verdana;
+	text-decoration: none;
+}
+.txtLong
+{
+	width: 280px;
+}
+.txtQLong
+{
+	width: 360px;
+}
+.txtVeryLong
+{
+	width: 520px;
+}
+.txtMedium
+{
+	width: 202px;
+}
+.txtShort
+{
+	width: 100px;
+}
+.btnNavigate
+{
+	border-right: #3300cc thin solid;
+	border-top: #3300cc thin solid;
+	font-weight: bold;
+	font-size: 10pt;
+	background-image: none;
+	border-left: #3300cc thin solid;
+	width: 260px;
+	color: #8b0000;
+	border-bottom: #3300cc thin solid;
+	font-family: Verdana, Arial;
+	height: 25px;
+	background-color: #ff9900;
+	text-decoration: none;
+}
+.btnEdit
+{
+	border-right: #3300cc thin solid;
+	border-top: #3300cc thin solid;
+	font-weight: bold;
+	font-size: 10pt;
+	background-image: none;
+	border-left: #3300cc thin solid;
+	width: 40px;
+	color: #8b0000;
+	border-bottom: #3300cc thin solid;
+	font-family: Verdana, Arial;
+	height: 20px;
+	background-color: #ff9900;
+	text-decoration: none;
+}
+.btnUpdate
+{
+	border-right: #ccccff thin outset;
+	border-top: #ccccff thin outset;
+	font-weight: bold;
+	font-size: 10pt;
+	background-image: none;
+	border-left: #ccccff thin outset;
+	width: 100px;
+	color: #ffcc33;
+	border-bottom: #ccccff thin outset;
+	font-family: Verdana, Arial;
+	height: 25px;
+	background-color: #3333cc;
+	text-decoration: none;
+}
+.regValue
+{
+	text-decoration: underline;
+}
+.lnbcell
+{
+	height: 30px;
+	width: 460px;
+}
+.lnbcell div
+{
+	overflow: hidden;
+	height: 20px;
+	width: 460px;
+}
+.snbcell
+{
+	height: 30px;
+	width: 200px;
+}
+.snbcell div
+{
+	overflow: hidden;
+	height: 20px;
+	width: 200px;
+}
+.subtitle 
+{
+	font-weight: bold;
+	font-size: 12pt;
+	color: #dc143c;
+	font-family: Arial, Verdana, Tahoma;
+}
+.picture-frame {
+	background: #FFFFFF;
+	border: 1px solid #DEDBD2;
+	padding: 5px;
+	float: left;
+}
+.picture-frame IMG { float: left; }
+.controls {
+	clear: both;
+	float: left;
+	margin: 20px 0;
+
+}
+.controls UL, .controls UL LI{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.controls UL, .controls UL LI, .controls UL LI A {
+	float: left;
+	display: inline;
+}
+.controls UL LI {
+	margin-right: 1px;
+}	
+.controls UL LI A
+{
+	background-position: #0A8ECC;
+	padding: 2px;
+	background: #0A8ECC;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 15px;
+	text-decoration: none;
+}
+.controls UL LI A:HOVER {
+	background: #8FCB2F;
+	
+}
+.clear {
+	height: 1px;
+	clear: both;
+	font-size: 0;
+	line-height: 0;
+}
+UL.thumbnails, UL.thumbnails LI {
+	float: left;
+	margin: 0;
+	padding: 0;
+	list-style: none; 
+}
+UL.thumbnails LI
+{
+	margin: 2px;
+	display: inline;
+	background: #FFFFFF;
+	padding: 2px;
+	border: 0px;
+}
+A IMG { border: none; }
+A { text-decoration: none; color: #C00000;}
+A:HOVER {
+	text-decoration: none;
+	color: #8FCB2F;
+}
+HR
+{
+    border-width: 0px;
+    height: 2px;
+    background-color: #2397F9;
+}
+.mnuHome, .mnuClasses, .mnuBenefits, .mnuGallery, .mnuAbout, .mnuContact, .mnuRegistration, .mnuRegulation, .mnuSummer, .mnuTestimonials, .mnuSummer, .mnuNews, .mnuCalendar, .btnNew
+{
+    display: block;
+    width: 160px;
+    height: 45px;
+    text-indent: -9999px;
+}
+.mnuHome a:hover, .mnuClasses a:hover, .mnuBenefits a:hover, .mnuGallery a:hover, .mnuAbout a:hover, .mnuContact a:hover, .mnuRegistration a:hover, .mnuRegulation a:hover, .mnuSummer a:hover, .mnuTestimonials a:hover, .mnuSummer a:hover, .mnuNews a:hover, .mnuCalendar a:hover, .btnNew a:hover
+{
+    background-position: 0 -45px;
+}
+.mnuHome a
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url(../Images/Menu/mnuHome.jpg) no-repeat top left;
+    outline: none;
+}
+.mnuClasses a
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url(../Images/Menu/mnuClasses.jpg) no-repeat top left;
+    outline: none;
+}
+.mnuBenefits a
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url(../Images/Menu/mnuBenefits.jpg) no-repeat top left;
+    outline: none;
+}
+.mnuGallery a
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url(../Images/Menu/mnuGallery.jpg) no-repeat top left;
+    outline: none;
+}
+.mnuAbout a
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url(../Images/Menu/mnuAbout.jpg) no-repeat top left;
+    outline: none;
+}
+.mnuContact a
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url(../Images/Menu/mnuContact.jpg) no-repeat top left;
+    outline: none;
+}
+.mnuRegistration a
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url(../Images/Menu/mnuRegistration.jpg) no-repeat top left;
+    outline: none;
+}
+.mnuRegulation a
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url(../Images/Menu/mnuRegulations.jpg) no-repeat top left;
+    outline: none;
+}
+.mnuTestimonials a
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url(../Images/Menu/mnuTestimonials.jpg) no-repeat top left;
+    outline: none;
+}
+.mnuSummer a
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url(../Images/Menu/mnuSummerCamp.jpg) no-repeat top left;
+    outline: none;
+}
+.mnuCalendar a
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url(../Images/Menu/mnuCalendar.jpg) no-repeat top left;
+    outline: none;
+}
+.mnuNews a
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url(../Images/Menu/mnuNews.jpg) no-repeat top left;
+    outline: none;
+}
+.btnNew a
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url(../Images/Menu/btnNew.jpg) no-repeat top left;
+    outline: none;
+}
+.btnSubmit
+{
+    height: 45px;
+    width: 160px;
+    background-image: url(../Images/Menu/btnSubmit.jpg);
+    background-repeat: no-repeat;
+    border: none;
+}
+.btnSubmit:hover
+{
+    background-position: 0 -45px;
+    cursor: pointer;
+}
+blockquote
+{
+    width: 700px;
+    margin-left: 20px;
+    background-repeat: no-repeat;
+    clear: both;
+    min-height: 50px;
+}
+blockquote p
+{
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.Headline
+{
+    font-size: 16px;
+    font-weight: bold;
+    color: #0066FF;
+    text-decoration: none;
+}
+p.MsoNoSpacing
+	{margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	        margin-left: 0in;
+            margin-right: 0in;
+            margin-top: 0in;
+        }

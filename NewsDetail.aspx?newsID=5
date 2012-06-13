@@ -1,0 +1,221 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="keywords" content="Miami Ballet School,Ballet School,Ballet Classes,Ballet Schools in Miami,Dance School,ballet class,classic ballet,dance,modern dance,contemporary ballet,pointe,Jazz,ballet workout,dance studio,adult classes,beginners classes,private classes,Lyrics,children ballet,Miami,Coral Gables" /><meta name="verify-v1" content="JbtACQBdecP3qr1E46m4JFJYxLfAIKl1mlm8MVpR8+Y=" /><meta name="msvalidate.01" content="52F528EB1A2B42E09F4960E74F1C8E05" />
+    <!--meta http-equiv="Page-Enter" content="progid:DXImageTransform.Microsoft.Fade(Duration=1)">
+    <meta http-equiv="Page-Exit" content="progid:DXImageTransform.Microsoft.Fade(Duration=1)"-->
+    <title>
+	Miami Royal Ballet News
+</title><link href="Styles/ssBallet.css" rel="stylesheet" type="text/css" /><link href="Styles/lightbox.css" type="text/css" rel="stylesheet" /></head>
+<body>
+    <form name="aspnetForm" method="post" action="NewsDetail.aspx?newsID=5" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4ODMxMTM0MzUPZBYCZg9kFgICAw9kFgICAw9kFgYCAQ8WAh4JaW5uZXJodG1sBR9SZWNpdGFsIDIwMTIgUmVoZWFyc2FsIFNjaGVkdWxlZAIDDxYCHwAF9hc8cD4NClRodXJzZGF5IEFwcmlsIDEyCTM6MzAgcG0gdG8gNDozMCBwbSA8YnIgLz4JDQpGYWlyeSBHb2Rtb3RoZXIgYW5kIFF1ZWVuDQo8YnIgLz48YnIgLz4NCkZyaWRheSBBcHJpbCAxMwkzOjMwIHBtIHRvIDU6MDAgcG0gPGJyIC8+CQ0KQ2luZGVyZWxsYQ0KPGJyIC8+PGJyIC8+DQpTYXR1cmRheSBBcHJpbCAxNAkxMTowMCBhbSB0byAxMjowMCBwbTxiciAvPgkNClN0ZXBtb3RoZXIgYW5kIENpbmRlcmVsbGEgPGJyIC8+DQpTYXR1cmRheSBBcHJpbCAxNAkxMjowMCBwbSB0byAxOjE1IHBtIAk8YnIgLz4NClF1ZWVuIGFuZCBEdWNoZXNzZXMNCjxiciAvPjxiciAvPg0KU3VuZGF5IEFwcmlsIDE1CTE6MzAgcG0gdG8gMzozMCBwbQk8YnIgLz4NCkNpbmRlcmVsbGEgYW5kIFByaW5jZQ0KPGJyIC8+PGJyIC8+DQpNb25kYXkgQXByaWwgMTYJPGJyIC8+DQpSZWd1bGFyIGNsYXNzIHNjaGVkdWxlCTxiciAvPg0KTW9uZGF5IEFwcmlsIDE2CTQ6MDAgcG0gdG8gNTowMCBwbQk8YnIgLz4NCkNpbmRlcmVsbGEgYW5kIFN0ZXBzaXN0ZXJzDQo8YnIgLz48YnIgLz4NClR1ZXNkYXkgQXByaWwgMTcJNDowMCBwbSB0byA2OjMwIHBtCTxiciAvPg0KUGl0Y3VyZSBEYXkuIEZpcnN0IGluLCBmaXJzdCBzZXJ2ZWQuIEhhdmUgbGlnaHQgbWFrZXVwIGFwcGxpZWQuDQo8YnIgLz48YnIgLz4NCldlZG5lc2RheSBBcHJpbCAxOAk0OjAwIHBtIHRvIDY6MzAgcG0JPGJyIC8+DQpQaWN0dXJlIERheS4gRmlyc3QgaW4sIGZpcnN0IHNlcnZlZC4gSGF2ZSBsaWdodCBtYWtldXAgYXBwbGllZC4gPGJyIC8+DQpXZWRuZXNkYXkgQXByaWwgMTgJNjowMCBwbSB0byA3OjAwIHBtIDxiciAvPg0KSmF6eiBib3RoIGdyb3Vwcw0KPGJyIC8+PGJyIC8+DQpUaHVyc2RheSBBcHJpbCAxOQk0OjMwIHBtIHRvIDY6MzAgcG0JPGJyIC8+DQpBZHZhbmNlZCBhbmQgSW50ZXJtZWRpYXRlIElJIDxici8+DQpUaHVyc2RheSBBcHJpbCAxOQk3OjAwIHBtIHRvIDc6MzAgcG0JPGJyIC8+DQpJbnRlcm1lZGlhdGUgSUksIER1Y2hlc3MNCjxiciAvPjxiciAvPg0KRnJpZGF5IEFwcmlsIDIwCQkzOjMwIHBtIHRvIDU6MDAgcG0JPGJyIC8+DQpDaW5kZXJlbGxhIEFuZCBKYXp6IGJvdGggZ3JvdXBzDQo8YnIgLz48YnIgLz4NClNhdHVyZGF5IEFwcmlsIDIxCTExOjAwIGFtIHRvIDEyOjMwIHBtCTxiciAvPg0KU3RlcG1vdGhlciwgU2lzdGVycyBhbmQgQ2luZGVyZWxsYSA8YnIvPg0KU2F0dXJkYXkgQXByaWwgMjEJMTI6MDAgcG0gdG8gMTo0NSBwbQk8YnIgLz4NClF1ZWVuIGFuZCBEdWNoZXNzDQo8YnIgLz48YnIgLz4NClN1bmRheSBBcHJpbCAyMgkJMTozMCBwbSB0byAzOjMwIHBtCTxiciAvPg0KQ2luZGVyZWxsYSBhbmQgUHJpbmNlDQo8YnIgLz48YnIgLz4NCk1vbmRheSBBcHJpbCAyMwk0OjAwIHBtIHRvIDY6MDAgcG0JPGJyIC8+DQpKdW5pb3IsIEludGVybWVkaWF0ZSBJLCBRdWVlbiBBdHRlbmRhbnRzLCBTdGVwc2lzdGVycywgU3RlcG1vdGhlciwgYW5kIEZhaXJ5DQo8YnIgLz48YnIgLz4NClR1ZXNkYXkgQXByaWwgMjQJODowMCBwbSB0byA5OjAwIHBtCTxiciAvPg0KRHVjaGVzcw0KPGJyIC8+PGJyIC8+DQpXZWRuZXNkYXkgQXByaWwgMjUJNDowMCBwbSB0byA1OjAwIHBtCTxiciAvPg0KRmFpcnkgQXR0ZW5kYW50cw0KV2VkbmVzZGF5IEFwcmlsIDI1CTU6MDAgcG0gdG8gNjozMCBwbQk8YnIgLz4NCkFjdCBJSS4gSmF6eiBib3RoIGdyb3VwcywgSW50ZXJtZWRpYXRlIEkgYW5kIElJLCBBZHZhbmNlZCwgQ2luZGVyZWxsYSwgU3RlcG1vdGhlciwgUXVlZW4gYW5kIER1Y2hlc3MNCjxiciAvPjxiciAvPg0KVGh1cnNkYXkgQXByaWwgMjYJNDozMCBwbSB0byA2OjMwIHBtCTxiciAvPg0KQ2luZGVyZWxsYSwgUHJpbmNlLCBJbnRlcm1lZGlhdGUgSUksIGFuZCBBZHZhbmNlZA0KPGJyIC8+PGJyIC8+DQpGcmlkYXkgQXByaWwgMjcJCTM6MzAgcG0gdG8gNDoxNSBwbQk8YnIgLz4NCkNpbmRlcmVsbGEgQW5kIFN0ZXBzaXN0ZXJzDQpGcmlkYXkgQXByaWwgMjcJCTQ6MTUgcG0gdG8gNTowMCBwbQk8YnIgLz4NClF1ZWVuIGF0dGVuZGFudHMNCjxiciAvPjxiciAvPg0KU2F0dXJkYXkgQXByaWwgMjgJMTA6MzAgYW0gdG8gMTI6NDUgcG0JPGJyIC8+DQpBY3QgSSBhbmQgQWN0IElJLiBNQU5EQVRPUlkgUkVIRUFSU0FMLiBGaW5hbCB3aWxsIGJlIHJlaGVhcnNlDQo8YnIgLz48YnIgLz4NClN1bmRheSBBcHJpbCAyOQkJMTozMCBwbSB0byAzOjMwIHBtCTxiciAvPg0KQ2luZGVyZWxsYSBhbmQgUHJpbmNlDQo8YnIgLz48YnIgLz4NCk1vbmRheSBBcHJpbCAzMAk0OjAwIHBtIHRvIDY6MDAgcG0JPGJyIC8+DQpBY3QgSS4gQ2luZGVyZWxsYSwgU3RlcHNpc3RlcnMsIFN0ZXBtb3RoZXIsIEZhaXJ5LCBRdWVlbiBBdHRlbmRhbnRzDQo8YnIgLz48YnIgLz4NClR1ZXNkYXkgTWF5IDEJCTg6MDAgcG0gdG8gOTowMCBwbQk8YnIgLz4NCkR1Y2hlc3MNCjxiciAvPjxiciAvPg0KV2VkbmVzZGF5IE1heSAyCTU6MDAgcG0gdG8gNjozMCBwbQk8YnIgLz4NCkphenogYm90aCBncm91cHMNCjxiciAvPjxiciAvPg0KVGh1cnNkYXkgTWF5IDMJCTQ6MzAgcG0gdG8gNjowMCBwbQk8YnIgLz4NCkFkdmFuY2VkIGFuZCBJbnRlcm1lZGlhdGUgSUkgICAgICAgICAgICAgICAgICAgIDxiciAvPg0KVGh1cnNkYXkgTWF5IDMJCTY6MDAgcG0gdG8gNzozMCBwbQk8YnIgLz4NCkludGVybWVkaWF0ZSBJSSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxiciAvPg0KVGh1cnNkYXkgTWF5IDMJCTc6MDAgcG0gdG8gNzozMCBwbQk8YnIgLz4NCkR1Y2hlc3MgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxiciAvPg0KVGh1cnNkYXkgTWF5IDMJCTg6MzAgcG0gdG8gOTozMCBwbQk8YnIgLz4NClByaW5jZQ0KPGJyIC8+PGJyIC8+DQpGcmlkYXkgTWF5IDQJCTQ6MDAgcG0gdG8gNTowMCBwbSA8YnIgLz4JDQpKYXp6IGdyb3VwIElJDQo8YnIgLz48YnIgLz4NClNhdHVyZGF5IE1heSA1CQkxMDozMCBhbSB0byAxMjo0NSBwbQk8YnIgLz4NCkFjdCBJIGFuZCBBY3QgSUkuIE1BTkRBVE9SWSBSRUhFUlNBTC4NCjxiciAvPjxiciAvPg0KPC9wPmQCBQ8WAh8ABRZNYW5hZ2VtZW50IC0gNC8xMi8yMDEyZGS5V3wQFCPgWVJdRRAQuFU2Hhw2sQ==" />
+
+        <table align="left" width="1100px" cellpadding="1" cellspacing="0" border="0">
+            <tr>
+                <td colspan="3" bgcolor="#000000">
+                    <img class="imgNoMargin" alt="Miami Royal Ballet School" src="Images/header2012w.jpg" width="1100" height="150" />
+                </td>
+            </tr>
+            <tr>
+                <td align="center" valign="top" width="175px" rowspan="2">
+                    
+
+<script src="menu.js" type="text/javascript"></script>
+<link href="Styles/ssBallet.css" rel="stylesheet" type="text/css" />
+<table cellpadding="0" cellspacing="0" border="0">
+    <tr style="background-color:#A39B9B">
+        <td></td>
+        <td><img src="Images/tlArch.gif" /></td>
+    </tr>
+    <tr>
+        <td style="background-color:#A39B9B">
+            <div>
+            <span class="mnuHome"><a href="Default.aspx">Miami Royal Ballet School</a></span>
+            <span class="mnuClasses"><a href="Classes.aspx">Ballet Classes</a></span>
+            <span class="mnuBenefits"><a href="Benefits.aspx">Benefits of Ballet Classes</a></span>
+            <span class="mnuGallery"><a href="Gallery.aspx">Ballet Dance Gallery</a></span>
+            <span class="mnuAbout"><a href="About.aspx">About Miami Royal Ballet School</a></span>
+            <span class="mnuContact"><a href="Contact.aspx">Contact Miami Royal Ballet School</a></span>
+            <span class="mnuNews"><a href="News.aspx">School News</a></span>
+            <span class="mnuRegistration"><a href="Registration.aspx">Dance Class Registration</a></span>
+            <span class="mnuRegulation"><a href="Regulations.aspx">Ballet School Regulations</a></span>
+            <span class="mnuSummer"><a href="SummerClasses.aspx">Dance Summper Camp</a></span>
+            <span class="mnuTestimonials"><a href="Testimonials.aspx">Class Testimonials</a></span>
+            <span class="mnuCalendar"><a href="Calendar.aspx">Miami Royal Ballet School Calendar</a></span>         
+        </div>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td align="right" style="background-color:#A39B9B"><img src="Images/brArch.gif" /></td>
+        <td></td>
+    </tr>
+</table>
+<br />
+<br />
+<span>
+    <a href="javascript:nibClick()"><img alt="www.nibsoftware.com" src="Images/nibsite_s5.jpg" width="160" height="240"/></a>
+</span>
+                </td>
+                <td align="left" valign="top" width="785px">
+                    
+<h1>Miami Royal Ballet School</h1>
+<div id="ctl00_cphMain_Headline" class="Headline">Recital 2012 Rehearsal Schedule</div>
+<div id="ctl00_cphMain_news"><p>
+Thursday April 12	3:30 pm to 4:30 pm <br />	
+Fairy Godmother and Queen
+<br /><br />
+Friday April 13	3:30 pm to 5:00 pm <br />	
+Cinderella
+<br /><br />
+Saturday April 14	11:00 am to 12:00 pm<br />	
+Stepmother and Cinderella <br />
+Saturday April 14	12:00 pm to 1:15 pm 	<br />
+Queen and Duchesses
+<br /><br />
+Sunday April 15	1:30 pm to 3:30 pm	<br />
+Cinderella and Prince
+<br /><br />
+Monday April 16	<br />
+Regular class schedule	<br />
+Monday April 16	4:00 pm to 5:00 pm	<br />
+Cinderella and Stepsisters
+<br /><br />
+Tuesday April 17	4:00 pm to 6:30 pm	<br />
+Pitcure Day. First in, first served. Have light makeup applied.
+<br /><br />
+Wednesday April 18	4:00 pm to 6:30 pm	<br />
+Picture Day. First in, first served. Have light makeup applied. <br />
+Wednesday April 18	6:00 pm to 7:00 pm <br />
+Jazz both groups
+<br /><br />
+Thursday April 19	4:30 pm to 6:30 pm	<br />
+Advanced and Intermediate II <br/>
+Thursday April 19	7:00 pm to 7:30 pm	<br />
+Intermediate II, Duchess
+<br /><br />
+Friday April 20		3:30 pm to 5:00 pm	<br />
+Cinderella And Jazz both groups
+<br /><br />
+Saturday April 21	11:00 am to 12:30 pm	<br />
+Stepmother, Sisters and Cinderella <br/>
+Saturday April 21	12:00 pm to 1:45 pm	<br />
+Queen and Duchess
+<br /><br />
+Sunday April 22		1:30 pm to 3:30 pm	<br />
+Cinderella and Prince
+<br /><br />
+Monday April 23	4:00 pm to 6:00 pm	<br />
+Junior, Intermediate I, Queen Attendants, Stepsisters, Stepmother, and Fairy
+<br /><br />
+Tuesday April 24	8:00 pm to 9:00 pm	<br />
+Duchess
+<br /><br />
+Wednesday April 25	4:00 pm to 5:00 pm	<br />
+Fairy Attendants
+Wednesday April 25	5:00 pm to 6:30 pm	<br />
+Act II. Jazz both groups, Intermediate I and II, Advanced, Cinderella, Stepmother, Queen and Duchess
+<br /><br />
+Thursday April 26	4:30 pm to 6:30 pm	<br />
+Cinderella, Prince, Intermediate II, and Advanced
+<br /><br />
+Friday April 27		3:30 pm to 4:15 pm	<br />
+Cinderella And Stepsisters
+Friday April 27		4:15 pm to 5:00 pm	<br />
+Queen attendants
+<br /><br />
+Saturday April 28	10:30 am to 12:45 pm	<br />
+Act I and Act II. MANDATORY REHEARSAL. Final will be rehearse
+<br /><br />
+Sunday April 29		1:30 pm to 3:30 pm	<br />
+Cinderella and Prince
+<br /><br />
+Monday April 30	4:00 pm to 6:00 pm	<br />
+Act I. Cinderella, Stepsisters, Stepmother, Fairy, Queen Attendants
+<br /><br />
+Tuesday May 1		8:00 pm to 9:00 pm	<br />
+Duchess
+<br /><br />
+Wednesday May 2	5:00 pm to 6:30 pm	<br />
+Jazz both groups
+<br /><br />
+Thursday May 3		4:30 pm to 6:00 pm	<br />
+Advanced and Intermediate II                    <br />
+Thursday May 3		6:00 pm to 7:30 pm	<br />
+Intermediate II                                 <br />
+Thursday May 3		7:00 pm to 7:30 pm	<br />
+Duchess                                         <br />
+Thursday May 3		8:30 pm to 9:30 pm	<br />
+Prince
+<br /><br />
+Friday May 4		4:00 pm to 5:00 pm <br />	
+Jazz group II
+<br /><br />
+Saturday May 5		10:30 am to 12:45 pm	<br />
+Act I and Act II. MANDATORY REHERSAL.
+<br /><br />
+</p></div>
+<div id="ctl00_cphMain_reporter">Management - 4/12/2012</div>
+<br />
+<a href="News.aspx"><img src="Images/goback.jpg" /></a>
+
+                </td>
+                <td valign="top">
+                    <table border="0" cellpadding="0" cellspacing="0" width="160px">
+                        <tr>
+                            <td align="right">
+                                <script type="text/javascript"><!--
+                                    google_ad_client = "pub-9554576223644973";
+                                    /* Ballet Right ImgTxt */
+                                    google_ad_slot = "6446462290";
+                                    google_ad_width = 160;
+                                    google_ad_height = 600;
+                                    //-->
+                                </script>
+                                <script type="text/javascript"
+                                    src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                                </script>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align="left" valign="top" colspan="2">
+                    <br />
+                    <script type="text/javascript"><!--
+                        google_ad_client = "pub-9554576223644973";
+                        /* Horiz 728x90 Img Add */
+                        google_ad_slot = "9712345078";
+                        google_ad_width = 728;
+                        google_ad_height = 90;
+                        //-->
+                    </script>
+                    <script type="text/javascript"
+                        src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                    </script>
+                </td>
+            </tr>
+            <tr>
+                <td align="center" valign="top" colspan="3">
+                    <br />
+                    <hr />
+                    <a href="Default.aspx"><span class="smallText"> Home </span></a>|
+                    <a href="Classes.aspx"><span class="smallText"> Classes </span></a>|
+                    <a href="Benefits.aspx"><span class="smallText"> Benefits </span></a>|
+                    <a href="Gallery.aspx"><span class="smallText"> Gallery </span></a>|
+                    <a href="About.aspx"><span class="smallText"> About Us </span></a>|
+                    <a href="Contact.aspx"><span class="smallText"> Contact Us </span></a>|
+                    <a href="News.aspx"><span class="smallText"> News </span></a>|
+                    <a href="Testimonials.aspx"><span class="smallText"> Testimonials </span></a>|
+                    <a href="Registration.aspx"><span class="smallText"> Registration </span></a>|
+                    <a href="Regulations.aspx"><span class="smallText"> Rules and Regulations </span></a><br />
+                    <span>©Copyright 2007 Miami Royal Ballet, Inc. All Rights Reserved.</span><br />
+                    <span>Web Site Design by www.nibsoftware.com</span>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
